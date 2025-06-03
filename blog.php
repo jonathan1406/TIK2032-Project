@@ -1,9 +1,9 @@
-<?php include 'db/db.php'; ?>
+<?php include 'db.php'; ?>
 <!DOCTYPE html>
 <html>
 <head>
     <title>Blog</title>
-    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <h1>Blog</h1>
